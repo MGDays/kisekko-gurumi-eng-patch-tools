@@ -1,0 +1,8 @@
+# The options menu's text speed names, one for each setting (0-4; drawn after "Text speed", from
+# column 16 of row 11, before the setting's digit at column 23). See tools/options.py.
+setting	english	notes
+0		
+1		
+2		
+3		
+4		

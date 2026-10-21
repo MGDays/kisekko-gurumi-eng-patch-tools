@@ -1,0 +1,45 @@
+# The ending staff credits (scene 13): six screens of sprites from the main font. Our own layout:
+# x and y are pixels from the centre of the screen (x "c": centred). See tools/credits.py.
+id	status	screen	x	y	english	notes
+CR0_01	todo	0	c	-72		
+CR0_02	todo	0	-104	-40		
+CR0_03	todo	0	-24	-40		
+CR0_04	todo	0	-104	-8		
+CR0_05	todo	0	-24	-8		
+CR0_06	todo	0	-104	24		
+CR0_07	todo	0	-24	24		
+CR0_08	todo	0	-24	40		
+CR1_01	todo	1	-104	-56		
+CR1_02	todo	1	-24	-56		
+CR1_03	todo	1	-24	-40		
+CR1_04	todo	1	-24	-24		
+CR1_05	todo	1	-104	16		
+CR1_06	todo	1	-24	16		
+CR1_07	todo	1	-24	32		
+CR2_01	todo	2	c	-72		
+CR2_02	todo	2	-104	-40		
+CR2_03	todo	2	-24	-40		
+CR2_04	todo	2	-104	-16		
+CR2_05	todo	2	-24	-16		
+CR2_06	todo	2	-104	8		
+CR2_07	todo	2	-24	8		
+CR2_08	todo	2	-104	32		
+CR2_09	todo	2	-24	32		
+CR3_01	todo	3	-104	-56		
+CR3_02	todo	3	-24	-56		
+CR3_03	todo	3	-24	-40		
+CR3_04	todo	3	-104	-8		
+CR3_05	todo	3	-24	8		
+CR3_06	todo	3	-104	24		
+CR3_07	todo	3	-24	24		
+CR3_08	todo	3	-24	40		
+CR4_01	todo	4	-104	-64		
+CR4_02	todo	4	-24	-48		
+CR4_03	todo	4	-104	-24		
+CR4_04	todo	4	-24	-24		
+CR4_05	todo	4	-104	8		
+CR4_06	todo	4	-24	24		
+CR4_07	todo	4	-104	48		
+CR4_08	todo	4	-24	48		
+CR5_01	todo	5	c	-24		
+CR5_02	todo	5	c	-8		

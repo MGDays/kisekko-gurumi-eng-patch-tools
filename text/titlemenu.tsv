@@ -1,0 +1,7 @@
+# The title menu: its three choices (gTitleMenuEntries, 64x16 pictures) and the translation version (TMV,
+# beside the copyright line), drawn by tools/titlemenu.py.
+id	status	english	notes
+TM1	todo		
+TM2	todo		
+TM3	todo		
+TMV	todo		

@@ -1,0 +1,22 @@
+# kind	name	address	end_next	end_table (text tables the code draws, in the tools' order)
+charlist	gCraftHelpPutBack	0x081BDD7C	0x081BDDBC	0x081BDDFC
+charlist	gCraftHelpCreate	0x081BDDBC	0x081BDDFC	0x081BDDFC
+charlist	gCraftHelpFinish	0x081BDCFC	0x081BDD3C	0x081BDDFC
+charlist	gCraftHelpPutIn	0x081BDD3C	0x081BDD7C	0x081BDDFC
+charlist	gDressHelp2	0x081BD14C	0x081BD18C	0x081BD2CC
+charlist	gDressHelp1	0x081BD10C	0x081BD14C	0x081BD2CC
+charlist	gDressHelp0	0x081BD0CC	0x081BD10C	0x081BD2CC
+charlist	gDressHelp3	0x081BD18C	0x081BD2CC	0x081BD2CC
+charlist	gItemRowNameText2	0x081C6CF8	0x081C6D38	0x081C6D38
+charlist	gItemRowNameText1	0x081C6CB8	0x081C6CF8	0x081C6D38
+text	gRecipeQuestionText	0x081BDC3C	0x081BDCFC	0x081BDDFC
+text	gRecipeUnknownText	0x081BDBFC	0x081BDC3C	0x081BDC3C
+text	gEmptySlotText	0x081BF668	0x081BF928	0x081BF928
+table64_u8	gCraftPlaceNames	0x081BDDFC	0x081BDFFC	0x081BDFFC
+table64_u8	gItemKindNames	0x081BCA4C	0x081BCB0C	0x081BCB0C
+table64_u8	gMaterialKindNames	0x081BCB0C	0x081BCC4C	0x081BCC4C
+table64_u8	gBodyPartNames	0x081BCC4C	0x081BD0CC	0x081BD2CC
+table64_u8	gMapNameTexts	0x081BF928	0x081C0028	0x081C0028
+table64_u8	gSaveSlotTexts	0x081C0028	0x081C0568	0x081C0568
+table64_struct	gNameTexts	0x081C6C78	0x081C6CB8	0x081C6D38
+stylebox	gMessageBoxStyle	0x081B4364	0x081B4378	0x081B4378

@@ -1,0 +1,11 @@
+# Menu and code texts drawn packed: proportionally, into 8-pixel cells of their own (tools/packed.py).
+# align: centre (the default: centred in the original's columns) or left (flush left, for lists).
+id	align	notes
+L1BDAFC	centre	the sewing screen's quit button: 3 cells, as the original
+L1BCFCC	centre	OK, on the sewing and dress-up screens: centred in its 2 cells
+C_gBodyPartNames_7	centre	the dress-up menu's quit: 3 cells, as the sewing screen's
+L1BC90C	left	pause menu (a left-aligned list in a 5-column window)
+L1BC94C	left	pause menu
+L1BC98C	left	pause menu
+L1BC9CC	left	pause menu; also the recipe screen's title
+L1BCA0C	left	pause menu

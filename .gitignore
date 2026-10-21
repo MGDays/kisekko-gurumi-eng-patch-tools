@@ -1,0 +1,14 @@
+# Never commit anything from the game: the ROM, saves, text or graphics extracted from it, or
+# builds of it. Only the tools, their data folder, the blank English template and the docs belong here.
+*.gba
+*.bin
+!tools/vwf/vwf-code.bin
+*.sav
+*.bps
+*.ips
+work/
+build/
+__pycache__/
+*.pyc
+*.swp
+*~

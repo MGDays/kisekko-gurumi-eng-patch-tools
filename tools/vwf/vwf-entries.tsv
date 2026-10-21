@@ -1,0 +1,6 @@
+# compiled from tools/vwf/vwf.c with SHA-1 285ef774d0011dba4fcde0b55981b092a3f37f44 (python3 tools/vwf.py --agbcc PATH)
+Vwf_DrawCharList	0x290
+Vwf_DrawCharListPal	0x2A4
+Vwf_DrawCharListTiles	0x304
+Vwf_LayoutStringTiles	0x6BC
+Vwf_OptionsDrawValue	0x3C8

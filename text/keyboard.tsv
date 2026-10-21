@@ -1,0 +1,11 @@
+# The name screen (tools/keyboard.py): the command words beside each keyboard page (4 characters at
+# most; the page key names the page it goes to) and the default name (8 narrow characters at most,
+# used if the player leaves the name empty). Rows left empty keep the original's.
+id	status	english	notes
+KB_NEXT	todo		moves the name cursor right
+KB_BACK	todo		moves the name cursor left
+KB_TO_KATAKANA	todo		on the hiragana page: goes to the katakana page
+KB_TO_LATIN	todo		on the katakana page: goes to the Latin page
+KB_TO_HIRAGANA	todo		on the Latin page: goes to the hiragana page
+KB_DONE	todo		finishes the name
+KB_DEFAULT_NAME	todo		the heroine's name if the player enters none

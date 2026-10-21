@@ -1,0 +1,39 @@
+# New glyphs for English punctuation (our own drawings), written into font cells the game does
+# not use (codes C5-C8 and E3-E6 are in no text, and their cells are blank).
+#
+# A glyph starts with "glyph <code> <character>", then one line per non-blank row:
+# "<row> <pixels>", rows 0-15 (the letters' baseline is row 12; lowercase starts at row 7, capitals
+# at row 4), pixels from column 0: '.' is transparent, 3-5 are the font's colours (5 the stroke,
+# 3 and 4 its shading). The build sets each glyph's width to its last used column + 2 (a 1-pixel
+# gap), as for the shifted Latin letters.
+
+glyph C5 .
+12 55
+
+glyph C6 ,
+12 55
+13 .5
+14 5.
+
+glyph C7 '
+4 55
+5 .5
+6 5.
+
+glyph C8 "
+4 5.5
+5 5.5
+6 5.5
+
+glyph E3 -
+9 5555
+
+glyph E4 :
+8 55
+12 55
+
+glyph E5 ;
+8 55
+12 55
+13 .5
+14 5.
