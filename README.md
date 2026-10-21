@@ -8,6 +8,9 @@ their own copy.
 The repository comes with a **blank template**: every text in the game listed by ID, with the
 English left empty for you to fill in. It holds nothing from the game itself.
 
+A complete English translation made with these tools is available at
+[kisekko-gurumi-english](https://github.com/MGDays/kisekko-gurumi-english).
+
 ## What's here, and what isn't
 
 - **Here:** the tools; the template (`text/`); the English font's added punctuation (`font/`); a
