@@ -9,7 +9,8 @@ The repository comes with a **blank template**: every text in the game listed by
 English left empty for you to fill in. It holds nothing from the game itself.
 
 A complete English translation made with these tools is available at
-[kisekko-gurumi-english](https://github.com/MGDays/kisekko-gurumi-english).
+[kisekko-gurumi-english](https://github.com/MGDays/kisekko-gurumi-english). It is mostly a machine
+translation by Claude Code, with some manual edits.
 
 ## What's here, and what isn't
 
