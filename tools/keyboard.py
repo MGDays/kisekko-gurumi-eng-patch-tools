@@ -1,7 +1,7 @@
 """The name screen's Latin keyboard page: punctuation in the blank cells (used by build.py).
 
 What the game does (NameEntry_Update; confirmed): pressing A types
-gKeyboardPageN.unk4[row][column + column / 5], where each page is six 64-byte rows that are also
+gKeyboardPageN.rows[row][column + column / 5], where each page is six 64-byte rows that are also
 the character lists the page's script draws (page 2, the Latin page, at 0x081BB5A0). So a cell
 types exactly what it shows; a blank cell is a space, and types a space (the original does the
 same). The cursor reaches columns 0 to gKeyboardLastColumns[page][row] (column 15 is the command
